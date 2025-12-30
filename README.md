@@ -47,5 +47,5 @@
 ---
 
 ## 📫 Contact
-- 💬 Telegram: (optional)
+- 💬 Telegram: https://t.me/nvdiw
 - 🌐 GitHub: https://github.com/nvdiw
