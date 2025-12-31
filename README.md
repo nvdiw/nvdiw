@@ -46,17 +46,11 @@
 ## 📊 Development Activity (Chart View)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nvdiw&theme=tokyo-night)
 
-📦 Chart tool:  
-:contentReference[oaicite:0]{index=0}
-
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvdiw&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvdiw&layout=compact&theme=tokyonight)
-
-📦 Stats cards:  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
