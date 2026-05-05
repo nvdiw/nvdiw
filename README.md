@@ -24,7 +24,7 @@
 
 ---
 
-## 🧠 What I Actually Do (No Trading Strategy Fluff)
+## 🧠 What I Actually Do
 
 - 🔹 **Backend APIs** – FastAPI, REST, JSON, authentication, error handling  
 - 🔹 **Performance tuning** – from 30s → 1s using `pandas/numpy`, vectorization, caching  
